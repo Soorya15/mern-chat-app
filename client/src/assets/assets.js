@@ -22,6 +22,7 @@ import pic4 from './pic4.png'
 import img1 from './img1.jpg'
 import img2 from './img2.jpg'
 
+
 const assets = {
     avatar_icon,
     gallery_icon,
